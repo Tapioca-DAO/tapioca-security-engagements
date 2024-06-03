@@ -45,7 +45,7 @@ Below are the links to all audit reports and testing engagements done as a refle
 
 | Engineer | Date | Duration | Scope | Description  | Report |
 | ---- |  ---------| ---------| ---------| -------|  -------| 
-| [Certora](https://www.certora.com/) | April 2023 | 2 weeks | Yieldbox | Formal verification engagement trying to proof Yieldbox code | [Report](https://github.com/Tapioca-DAO/tapioca-security-engagements/blob/main/Testing-Engagements/Formal-Verification/Tapioca_Certora_Audit_04_2023.pdf)
+| [Certora](https://www.certora.com/) | April 2023 | 2 months | Yieldbox | Formal verification engagement trying to proof Yieldbox code | [Report](https://github.com/Tapioca-DAO/tapioca-security-engagements/blob/main/Testing-Engagements/Formal-Verification/Tapioca_Certora_Audit_04_2023.pdf)
 
 
 
@@ -55,7 +55,7 @@ Below are the links to all audit reports and testing engagements done as a refle
 | ---- |  ---------| ---------| ---------| -------|  -------| 
 | [Perimeter (Nican0r)](https://x.com/nican0r) | May 2024 | 2 weeks | Yieldbox-Strategies | Fork testing Glp and sDai Strategies | [Coming soon]()
 | [Perimeter (Nican0r)](https://x.com/nican0r) | June 2024 | 10 days | Tap-token | Unit testing the tap-token repo with focus on twTAP and twAML | [Coming soon]()
-| [0xRektoras buddy]() | June 2024 | 10 days | Pearlmit | Unit testing of Pearlmit| [Coming soon]()
+| [0xRazine](https://x.com/0xRazine) | June 2024 | 10 days | Pearlmit | Unit testing of Pearlmit| [Coming soon]()
 
 
 
