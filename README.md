@@ -21,7 +21,8 @@ This repository is a public registry of all the Tapioca Security and Testing eng
 | [Sherlock]() | Feb 2024 | 3 weeks | Tapioca-bar, TapiocaZ | Strategic public audit in paralel with Code4rena of the Lending and Omnichain engine. Key review that would lay the path for the final security pipeline | [Report]()
 | [Code4rena]() | Feb 2024 | 3 weeks | Tapioca-periph, Tap-token | Strategic public audit in paralel with Sherlock of the periphery and Tap-token.  Key review that would lay the path for the final security pipeline| [Report]()
 | [PashovGroup]() | Feb 2024 | 2 weeks | Pearlmit, Strategies, Leverage Executors| Review of targetted points of the codebase that have been less looked at | [Report]()
-| [0xWeiss & PashovGroup]() | Dec 2023 | 1 month | Magnetar, Oracles, Swappers | Strategic review of Magnetar, Oracles and currently deprecated swappers | [Report]()
+| [PashovGroup]() | Dec 2023 | 1 month | Magnetar, Oracles, Swappers | Strategic review of Magnetar, Oracles and currently deprecated swappers together with 0xWeiss | [Report]()
+| [0xWeiss]() | Dec 2023 | 1 month | Magnetar, Oracles, Swappers | Strategic review of Magnetar, Oracles and currently deprecated swappers together with Pashov Audit Group | [Report]()
 | [Spearbit]() | Nov 2023 | 9 weeks | Tapioca-bar, TapiocaZ, Tapioca-periph | Target review of 85% of the protocol focused on hardening all the core logic of the main repositories. Main entry point to a new security pipeline | [Report]()
 | [Code4rena]() | July 2023 | 1 month | Tap-token, TapiocaZ, Tapioca-periph, Yieldbox, Yieldbox-strategies  | Initial review of 85% of the protocol | [Report]()
 
@@ -31,7 +32,7 @@ This repository is a public registry of all the Tapioca Security and Testing eng
 
 | Fuzzing Engineer | Date | Duration | Scope | Description  | Report |
 | ---- |  ---------| ---------| ---------| -------|  -------| 
-| [EnigmaDark (Victor Martinez)]() | April 2024 | Tapioca-bar | Invariant suite performed in the Lending part of the protocol. Composed of over 70 invariants | [Coming soon]()
+| [EnigmaDark (Victor Martinez)]() | April 2024 | 3 weeks | Tapioca-bar | Invariant suite performed in the Lending part of the protocol. Composed of over 70 invariants | [Coming soon]()
 
 
 
@@ -39,7 +40,7 @@ This repository is a public registry of all the Tapioca Security and Testing eng
 
 | Engineer | Date | Duration | Scope | Description  | Report |
 | ---- |  ---------| ---------| ---------| -------|  -------| 
-| [Certora]() | April 2023 | Yieldbox | Formal verification engagement trying to proof Yieldbox code | [Report]()
+| [Certora]() | April 2023 | 2 weeks | Yieldbox | Formal verification engagement trying to proof Yieldbox code | [Report]()
 
 
 
@@ -47,8 +48,8 @@ This repository is a public registry of all the Tapioca Security and Testing eng
 
 | Tester | Date | Duration | Scope | Description  | Report |
 | ---- |  ---------| ---------| ---------| -------|  -------| 
-| [Nican0r]() | May 2024 | Yieldbox-Strategies | Fork testing Glp and sDai Strategies | [Coming soon]()
-| [Nican0r]() | June 2024 | Tap-token | Unit testing the tap-token repo with focus on twTAP and twAML | [Coming soon]()
+| [Perimeter (Nican0r)]() | May 2024 | 2 weeks | Yieldbox-Strategies | Fork testing Glp and sDai Strategies | [Coming soon]()
+| [Perimeter (Nican0r)]() | June 2024 | 10 days | Tap-token | Unit testing the tap-token repo with focus on twTAP and twAML | [Coming soon]()
 
 
 
