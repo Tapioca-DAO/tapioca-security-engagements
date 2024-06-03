@@ -5,7 +5,7 @@ This repository is a public registry of all the Tapioca Security and Testing eng
 
 
 | Auditor | Date | Scope | Description  | Report |
-| ---- |  ---------| ---------|  -------|  -------| --------|
+| ---- |  ---------| ---------|  -------|  -------| 
 | [0xAdrii]() | May 2024 | 11 | 23 | [Report]()
 | [Trumpero & Duc]() | May 2024 | 11 | 23 | [Report]()
 | [CarrotSmuggler]() | May 2024 | 11 | 23 | [Report]()
