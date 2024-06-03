@@ -6,20 +6,29 @@ This repository is a public registry of all the Tapioca Security and Testing eng
 
 | Auditor | Date | Scope | Description  | Report |
 | ---- |  ---------| ---------|  -------|  -------| --------|
-| []() | May 2024 | 11 | 23 | [Report]()
-| []() | May 2024 | 11 | 23 | [Report]()
-| []() | May 2024 | 11 | 23 | [Report]()
-| []() | May 2024 | 11 | 23 | [Report]()
-| []() | May 2024 | 11 | 23 | [Report]()
-| []() | May 2024 | 11 | 23 | [Report]()
-| []() | May 2024 | 11 | 23 | [Report]()
-| []() | May 2024 | 11 | 23 | [Report]()
+| [0xAdrii]() | May 2024 | 11 | 23 | [Report]()
+| [Trumpero & Duc]() | May 2024 | 11 | 23 | [Report]()
+| [CarrotSmuggler]() | May 2024 | 11 | 23 | [Report]()
+| [Deadrosesxyz]() | May 2024 | 11 | 23 | [Report]()
+| [Deadrosesxyz]() | May 2024 | 11 | 23 | [Report]()
+| [windhustler]() | May 2024 | 11 | 23 | [Report]()
+| [CarrotSmuggler]() | May 2024 | 11 | 23 | [Report]()
+| [CarrotSmuggler]() | May 2024 | 11 | 23 | [Report]()
+| [0xAdrii]() | May 2024 | 11 | 23 | [Report]()
+| [GalloDaSballo]() | May 2024 | 11 | 23 | [Report]()
+| [Sherlock]() | May 2024 | 11 | 23 | [Report]()
+| [Code4rena]() | May 2024 | 11 | 23 | [Report]()
+| [PashovGroup]() | May 2024 | 11 | 23 | [Report]()
+| [PashovGroup & 0xWeiss]() | May 2024 | 11 | 23 | [Report]()
+| [Spearbit]() | May 2024 | 11 | 23 | [Report]()
+| [Code4rena]() | May 2024 | 11 | 23 | [Report]()
 
 
 
 # Tapioca-Invariant-Testing-Reports
 
 
+| [EnigmaDark (Victor Martinez)]() | May 2024 | 11 | 23 | [Report]()
 
 
 
@@ -31,7 +40,7 @@ This repository is a public registry of all the Tapioca Security and Testing eng
 
 # Tapioca-Unit-Testing-Reports
 
-
+| [Nican0r]() | May 2024 | 11 | 23 | [Report]()
 
 
 
