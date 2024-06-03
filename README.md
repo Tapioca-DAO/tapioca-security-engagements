@@ -1,4 +1,9 @@
+# Tapioca-Security-And-Testing-Engagements-Recap
+
+
 This repository is a public registry of all the Tapioca Security and Testing engagements performed by leading security companies and elite white-hats. Any report out there that can't be found in this repository, should not be treated as an official document.
+
+Below are the links to all audit reports and testing engagements done as a reflection of Tapiocas commitment to security. 
 
 
 # Tapioca-Security-Review-Reports 🛡️
